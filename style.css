@@ -1,0 +1,31 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(210, 210, 210);
+    font-family: 'Bungee', cursive;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    font-family: Noto Sans;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    font-family: Noto Sans;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+  }
+
+  canvas {
+    box-shadow: 5px 5px 10px 10px rgb(210, 210, 210);
+  }
